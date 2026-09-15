@@ -1,0 +1,10 @@
+build/
+.vs/
+*.user
+*.suo
+*.pdb
+*.zip
+*.pfx
+*.p12
+*.pvk
+*.snk
